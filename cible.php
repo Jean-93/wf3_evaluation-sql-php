@@ -31,4 +31,5 @@ if (isset($_FILES['photo'])AND $_FILES['photo']['error'] == 0)
         }
     }
 }
+
 ?>

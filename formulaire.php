@@ -48,6 +48,7 @@ $bdd = new PDO('mysql:host=localhost;dbname=immobilier;charset=utf8', 'root', 'r
 
             <br>
             <br>
+            <br>
 
             <input type="file" name="photo" /><br>
 

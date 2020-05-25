@@ -13,4 +13,5 @@ CREATE TABLE logement(
     descriptif TEXT,
     PRIMARY KEY (id_logement)
 )
+
 [ENGINE = INNODB];
